@@ -2,7 +2,7 @@ public with sharing class BillAPI {
     
     public static void getBills() {
         //start by creating an HttpRequest object and set the endpoint and method.
-        int data;
+        Integer test;
 
         //set up an Http object and an HTTPResponse Object and use the .getBody() method here.
 
